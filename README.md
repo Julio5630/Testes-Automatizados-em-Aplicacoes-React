@@ -178,3 +178,6 @@ O projeto segue um visual institucional jurídico baseado em:
 1. **Clonar o repositório**
    ```bash
    git clone https://github.com/2025-08-53/De-Desenvolvedor-Web-a-Mestre-do-React-O-Pr-ximo-Nivel.git
+
+
+
